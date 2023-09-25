@@ -1,6 +1,6 @@
 # Writing Good Documentation
 
-## Step 1 - Uisng Codeblocks.
+## Step 1 - Using Codeblocks.
 
 Codeblocks in markdown make it *very easy* for tech people to **copy, paste and share** code.
 A good **Cloud Engineer** uses Codeblock whenever possible.
@@ -49,7 +49,7 @@ end
 
 ## Step 3 - Use Github Flavoured Task Lists
 
-Github extends Markdown to hava e lists where you can check off items.<sup>[3]</sup> 
+Github extends Markdown to hava e lists where you can check off items. [<sup>[3]</sup>](##external-references)
 
 - [x] Finsh step 1
 - [x] Finsh step 2
@@ -62,13 +62,25 @@ Here are some examples:
 | Nmae | Shortcode | Emoji |
 | --- | --- | ---|
 | Cloud | `:cloud: `| :cloud: |
+| Cloud with lighting|`cloud_with_lighting`| 🌩️|
 
 
-:cloud:
+## Step 5 how to create a Table
+You can use the following markdown format to create tables.
+```md
+| Nmae | Shortcode | Emoji |
+| --- | --- | ---|
+| Cloud | `:cloud: `| :cloud: |
+| Cloud with lighting|`cloud_with_lighting`| 🌩️|
+```
+
+Github extends the functionality of Markdown to provide more alignment and table cell formatting options.[<sup>[5]</sup>](##external-references)
 
 
-## References
+
+## External References
 - [Basic writing and formatting syntax (GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text.) <sup>[1]</sup> 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[2]</sup>
 - [GMF - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[3]</sup>
 - [GTM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)<sup>[4]</sup>
+- [GFM - Table (with extension)](https://github.github.com/gfm/#tables-extension-)<sup>[5]</sup>
