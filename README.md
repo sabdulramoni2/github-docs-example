@@ -47,6 +47,11 @@ end
 ```
 > Here is an example of using a codeblock for an eror that appears in bash.
 
+When you can always provide a codeblock instead of a screenshot.
+If you need to take a screenshot make sure it is not from your phone.
+
+> There are certain cases where its okay to take photo with your phone. This is when you are showing something like  a keyboard, which does not appear on a computer screen. If it render on your computer screen it should be  a screenshot.
+
 ## Step 2 - How to take screenshots.
 
 A screensgot is when you capture a part of your screen from your laptop, desktop or phone. 
@@ -58,7 +63,7 @@ This is not to be confused with take a photo with your phone.
 
 **DO THIS INSTEAD**
 
-![Photo of correct image](assets/example.png)
+![Screenshots Example](assets/EXAMPLE.png)
 
 
 To take a screenshots on both Macos and Windows, you can use the following hotkeys:
