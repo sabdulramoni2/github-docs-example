@@ -49,7 +49,7 @@ end
 
 ## Step 3 - Use Github Flavoured Task Lists
 
-Github extends Markdown to hava e lists where you can check off items. [<sup>[3]</sup>](##external-references)
+Github extends Markdown to hava e lists where you can check off items. [<sup>[3]</sup>](#external-references)
 
 - [x] Finsh step 1
 - [x] Finsh step 2
@@ -74,7 +74,7 @@ You can use the following markdown format to create tables.
 | Cloud with lighting|`cloud_with_lighting`| 🌩️|
 ```
 
-Github extends the functionality of Markdown to provide more alignment and table cell formatting options.[<sup>[5]</sup>](##external-references)
+Github extends the functionality of Markdown to provide more alignment and table cell formatting options.[<sup>[5]</sup>](#external-references)
 
 
 
