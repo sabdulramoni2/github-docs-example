@@ -144,7 +144,7 @@ Github extends the functionality of Markdown to provide more alignment and table
 - ![Photo of the Github logo](assets/githib.png)
 
 
-  [Secret Window Hidden Garden](secret-window/hidden_garden)
+  [Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 
 
