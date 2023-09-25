@@ -30,7 +30,7 @@ end
 say_hello
 ```
 
-<img width="500" src="https://github.com/sabdulramoni2/github-docs-example/assets/144086740/fbed585f-4484-4cc5-9219-8da6739b0684"/>
+<img width="500" src="assets/githib.png"/>
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -76,8 +76,8 @@ You can use the following markdown format to create tables.
 
 Github extends the functionality of Markdown to provide more alignment and table cell formatting options.[<sup>[5]</sup>](#external-references)
 
-- ![Photo of the Monitor](assets/Screenshot 2023-08-17 142719.png).
-- ![Photo of the Github logo](assets/Githib.png)
+- ![Photo of the Monitor](assets/Screenshot.png).
+- ![Photo of the Github logo](assets/githib.png)
 
 
 
