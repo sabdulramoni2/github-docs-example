@@ -144,6 +144,9 @@ Github extends the functionality of Markdown to provide more alignment and table
 - ![Photo of the Github logo](assets/githib.png)
 
 
+  [Secret Window Hidden Garden](secret-window/hidden_garden)
+
+
 
 ## External References
 - [Basic writing and formatting syntax (GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text.) <sup>[1]</sup> 
