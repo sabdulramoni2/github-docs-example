@@ -76,6 +76,9 @@ You can use the following markdown format to create tables.
 
 Github extends the functionality of Markdown to provide more alignment and table cell formatting options.[<sup>[5]</sup>](#external-references)
 
+!{Photo of the Monitor](assets/Screenshot 2023-08-17 142719.png)
+
+
 
 
 ## External References
